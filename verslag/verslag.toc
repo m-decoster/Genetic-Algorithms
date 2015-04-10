@@ -1,0 +1,12 @@
+\select@language {dutch}
+\contentsline {section}{\numberline {1}Implementatie}{1}
+\contentsline {subsection}{\numberline {1.1}Algoritmen}{1}
+\contentsline {subsubsection}{\numberline {1.1.1}Toepasselijkheid van genetische algoritmen}{1}
+\contentsline {subsubsection}{\numberline {1.1.2}Selectie}{1}
+\contentsline {subsubsection}{\numberline {1.1.3}Crossover}{2}
+\contentsline {subsubsection}{\numberline {1.1.4}Mutatie}{2}
+\contentsline {subsubsection}{\numberline {1.1.5}Punt-in-veelhoek probleem}{2}
+\contentsline {subsection}{\numberline {1.2}Datastructuren}{3}
+\contentsline {subsubsection}{\numberline {1.2.1}Organisme}{3}
+\contentsline {subsubsection}{\numberline {1.2.2}Populatie}{3}
+\contentsline {section}{\numberline {2}Parallellisatie}{4}

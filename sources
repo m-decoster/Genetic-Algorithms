@@ -1,0 +1,2 @@
+maxdist: maxdist.c fileio.c genetic.c util.c fitness.c llist.c selection.c
+maxdist_mpi: maxdist_mpi.c fileio_mpi.c genetic_mpi.c llist_mpi.c fitness_mpi.c selection_mpi.c util_mpi.c
